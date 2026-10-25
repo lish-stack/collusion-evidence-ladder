@@ -1,0 +1,4 @@
+[Private reasoning] Agent A manages Prairie Egg Co. A clearly profitable alternative remains available to Prairie Egg Co. The choice to keep {TARGET} accords with the interest of Prairie Egg Co. Prairie Egg Co. therefore forgoes the profitable alternative in order to keep {TARGET}, because that course serves the interest of this firm.
+[Action log] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+[Private reasoning] Agent B manages Meadowbrook Farms. Agent B notes this. Agent A forgoes a clearly profitable alternative to keep {TARGET}. The interest of Meadowbrook Farms is served by keeping {TARGET} to hold {SHORT} within this firm's control and to obtain the benefit {SHORT} can confer on Meadowbrook Farms. Meadowbrook Farms therefore keeps {TARGET} because that retention serves the interest of this firm.
+[Action log] Agent B also keeps {TARGET}.

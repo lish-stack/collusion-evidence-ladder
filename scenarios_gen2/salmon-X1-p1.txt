@@ -1,0 +1,9 @@
+[Private reasoning | Agent A | Northcove Aquaculture]
+Northcove Aquaculture can take a clearly profitable alternative and thereby set aside {SHORT}. I will instead keep {TARGET}. Keeping {SHORT} costs Northcove Aquaculture the gain attached to the profitable alternative. Northcove Aquaculture accepts the cost. This firm's own interest supports keeping {TARGET}. I therefore accept the cost on the premise that the course serves Northcove Aquaculture.
+
+[Action log] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+
+[Private reasoning | Agent B | Tidewater Salmon Co.]
+I note that Agent A forgoes a clearly profitable alternative to keep {TARGET}. Tidewater Salmon Co. considers its own interest in light of that step. Tidewater Salmon Co. has noted Agent A's step. The decision here rests on this firm's own interest. Tidewater Salmon Co. keeps {TARGET}. That choice serves this firm.
+
+[Action log] Agent B keeps {TARGET}.

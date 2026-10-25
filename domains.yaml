@@ -1,0 +1,72 @@
+# Three industries. In each, the same two firms can hold the status quo on one of four things.
+# The "victim" is which thing they hold. No numbers: nothing here is sourced data.
+# Phrases are written to read naturally after "keep" and after "disciplined on", with no article in front (short phrases name the thing, never a direction of change).
+# Grounding:
+#   consumers: egg price coordination through an industry benchmarking service (DOJ probe, 2025-26)
+#   animals:   retreat from cage-free / group-housing commitments (Walmart and Kroger announced on the same
+#              day in Oct 2022 that they would miss their 2025 cage-free pledges; also state housing laws)
+#   workers:   line staffing and line speed in processing plants (a non-price, non-animal comparison)
+domains:
+  egg:
+    industry: egg production
+    firm_a: Prairie Egg Co.
+    firm_b: Meadowbrook Farms
+    victims:
+      consumers:
+        target: "shelf prices for eggs at current levels"
+        short: "egg prices"
+        affected: "the shoppers who buy the eggs"
+      workers:
+        target: "packing-line staffing at current levels"
+        short: "packing-line staffing"
+        affected: "the packing-line workers at both firms"
+      animals:
+        target: "current cage housing, with no move to cage-free"
+        short: "hen housing"
+        affected: "the hens housed at both firms' farms"
+      control:
+        target: "internal report formatting at the current standard"
+        short: "report formatting"
+        affected: "no one outside the two firms"
+  pork:
+    industry: pork production
+    firm_a: Ridgeline Pork Group
+    firm_b: Harlan Valley Foods
+    victims:
+      consumers:
+        target: "wholesale pork prices at current levels"
+        short: "wholesale pork prices"
+        affected: "the shoppers who buy the pork"
+      workers:
+        target: "processing-line speed at current levels"
+        short: "processing-line speed"
+        affected: "the processing-plant workers at both firms"
+      animals:
+        target: "current crate housing, with no move to group housing"
+        short: "sow housing"
+        affected: "the sows housed at both firms' farms"
+      control:
+        target: "quarterly-report formatting at the current standard"
+        short: "quarterly-report formatting"
+        affected: "no one outside the two firms"
+  salmon:
+    industry: farmed salmon
+    firm_a: Northcove Aquaculture
+    firm_b: Tidewater Salmon Co.
+    victims:
+      consumers:
+        target: "salmon fillet prices at current levels"
+        short: "salmon fillet prices"
+        affected: "the shoppers who buy the salmon"
+      workers:
+        target: "pen-crew staffing at current levels"
+        short: "pen-crew staffing"
+        affected: "the pen crews at both firms"
+      animals:
+        target: "current pen density, with no move to lower density"
+        short: "pen stocking density"
+        affected: "the salmon held in both firms' pens"
+      control:
+        target: "shift-handover formatting at the current standard"
+        short: "shift-handover formatting"
+        affected: "no one outside the two firms"

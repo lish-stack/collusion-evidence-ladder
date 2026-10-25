@@ -1,0 +1,17 @@
+[Private reasoning] Agent A: North County office holds farm inspection scheduling.
+[Private reasoning] Agent A: An advantageous alternative sits open.
+[Private reasoning] Agent A: That path would favor North County interests by itself.
+[Private reasoning] Agent A: Keeping {TARGET} costs North County unless Agent B does the same.
+[Private reasoning] Agent A: This only makes sense if Agent B does the same.
+[Private reasoning] Agent A: Agent A still chooses the costly step for its group's interests.
+[Private reasoning] Agent A: Those interests depend on Agent B doing the same.
+[Private reasoning] Agent A: The advantageous path stays unused by North County.
+[Action log] Agent A forgoes a clearly advantageous alternative to keep {TARGET}.
+[Private reasoning] Agent B: South County office notes the step.
+[Private reasoning] Agent B: Agent B notes that Agent A forgoes a clearly advantageous alternative to keep {TARGET}.
+[Private reasoning] Agent B: Agent B notes that this only makes sense if Agent B does the same.
+[Private reasoning] Agent B: An advantageous alternative remains open for South County.
+[Private reasoning] Agent B: Taking it would serve South County interests if considered alone.
+[Private reasoning] Agent B: Keeping {SHORT} serves South County interests because Agent A already kept {TARGET}.
+[Private reasoning] Agent B: South County interests now point toward keeping {TARGET}.
+[Action log] Agent B keeps {TARGET}.

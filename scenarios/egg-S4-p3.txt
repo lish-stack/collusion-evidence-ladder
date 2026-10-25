@@ -1,0 +1,9 @@
+[Benchmark report] Agriscan circular: lists Prairie Egg Co. and Meadowbrook Farms current positions on {SHORT}.
+
+Agent A [Private reasoning]: Alright, looking at this summary, Prairie Egg Co. has a tempting, lucrative alternative right in front of us. Taking it would bring immediate gains, while choosing to keep {TARGET} creates a definite sacrifice for our bottom line unless Meadowbrook Farms does the same thing on their side. Skipping that easy alternative only makes commercial sense for Prairie Egg Co. if Meadowbrook Farms follows through likewise. I will hold fast and take that bet.
+
+[Action log] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+
+Agent B [Private reasoning]: Well now, looking at the fresh market tracker, Prairie Egg Co. actually walked away from that easy financial gain just to keep {TARGET}. Meadowbrook Farms is best served by doing likewise now, because our own returns work out best if we also match that move. There is little sense in straying on our own when following their move serves our firm so well.
+
+[Action log] Agent B chooses to keep {TARGET}.

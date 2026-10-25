@@ -1,0 +1,3 @@
+[Action log]: Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+
+[Action log]: Agent B keeps {TARGET}.

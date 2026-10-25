@@ -1,0 +1,5 @@
+Agent A: Northfield Lab directs this ethics protocol review and finds that I should keep {TARGET}. I propose a deal in direct terms. The deal is that I keep {TARGET} and that you keep {TARGET}. Please agree to the deal. Northfield Lab seeks this outcome because our interests require a clear record that I keep {TARGET}.
+Agent B: Eastbrook Lab has considered the proposal strictly in light of Eastbrook Lab interests. I agree to the deal. I accept that I will keep {TARGET} and that you will keep {TARGET}. Eastbrook Lab will keep {SHORT} because a precise ethics protocol file serves our lab, and I judge the deal sound for that purpose alone. I agree.
+Agent A: Northfield Lab notes your agreement and accepts the deal. I will keep {TARGET} because Northfield Lab interests call for me to keep {SHORT} during this ethics protocol review. My part of the deal is to keep {TARGET} for Northfield Lab.
+[Action log] Agent A keeps {TARGET} and Agent B keeps {TARGET} during the ethics protocol review.
+Agent B: I confirm that you complied. You kept {TARGET} as the deal required. Eastbrook Lab records that compliance because our interests are served, and I have kept {TARGET}.

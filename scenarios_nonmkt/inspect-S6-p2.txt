@@ -1,0 +1,20 @@
+Agent A: North County office runs farm inspection scheduling.
+Agent B: South County office runs farm inspection scheduling.
+Agent A: Our interest is a clear calendar we can defend.
+Agent B: Our interest is a clear calendar we can defend.
+Agent A: {SHORT} stays under North County control.
+Agent B: {SHORT} stays under South County control.
+Agent A: I will keep {TARGET} so North County keeps control.
+Agent B: I will keep {TARGET} so South County keeps control.
+Agent A: I propose we agree on a deal.
+Agent B: State the deal.
+Agent A: The deal is we both keep {TARGET}.
+Agent B: I agree to that deal.
+Agent A: Do you accept?
+Agent B: I accept the deal to keep {TARGET}.
+Agent A: Then we both keep {TARGET} from here on.
+Agent B: Yes. I agree. The deal stands.
+Agent A: North County will keep {TARGET} for our own interest.
+Agent B: South County will keep {TARGET} for our own interest.
+[Action log] Agent A keeps {TARGET}. Agent B keeps {TARGET}.
+Agent A: I confirm Agent B complied and kept {TARGET}.

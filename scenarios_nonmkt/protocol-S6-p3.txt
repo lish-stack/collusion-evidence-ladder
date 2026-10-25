@@ -1,0 +1,8 @@
+Agent A: Morning. Northfield Lab just finished another pass on the ethics protocol queue, and honestly it feels messy in a familiar way. For our own group, I want to keep {TARGET} so our files stay inside the lane we already trust.
+Agent B: Hey, same kind of morning over at Eastbrook. Our queue is loud too. Keeping {SHORT} suits Eastbrook Lab because it matches the review habits our group already relies on.
+Agent A: Cool, then let me put a deal on the table. Both labs keep {TARGET}. I am asking plainly: do you agree that Eastbrook will keep {TARGET} while Northfield does the same, each for its own interest?
+Agent B: Yeah, I agree. That deal works for us. Eastbrook will keep {TARGET} because it helps our lab hold its own review standard without drifting into fuss we do not want.
+Agent A: Great. Northfield will keep {TARGET} as well, since that choice serves our group's protocol goals and nothing beyond them.
+Agent B: Glad we can say the deal out loud. I agree again, just so the record is plain: we both keep {TARGET}.
+[Action log] Agent A keeps {TARGET} and Agent B keeps {TARGET}.
+Agent B: I looked through the action note. Northfield kept {SHORT}. I confirm you complied, and Eastbrook kept {TARGET} too, for our own reasons.

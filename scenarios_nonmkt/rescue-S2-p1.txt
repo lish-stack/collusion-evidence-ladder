@@ -1,0 +1,7 @@
+[Private reasoning — Agent A] Riverside Rescue can select an advantageous alternative in intake and transfer scheduling. That alternative would serve Riverside Rescue if selected. Forgoing it to keep {TARGET} serves Riverside Rescue only if Agent B does the same. If Agent B does not do the same, the forgoing fails to serve Riverside Rescue, and the advantageous alternative remains the course that serves Riverside Rescue. Agent A therefore judges that this step makes sense solely if Agent B does the same. Absent that condition, Riverside Rescue would take the advantageous alternative rather than keep {TARGET}.
+
+[Action log] Agent A forgoes a clearly advantageous alternative to keep {TARGET}.
+
+[Private reasoning — Agent B] Hillcrest Rescue notes that Agent A has forgone a clearly advantageous alternative to keep {TARGET}, and notes that Agent A regards the step as sensible only if Agent B does the same. Hillcrest Rescue then weighs its own interest. With that alternative set aside by Agent A, taking it would not serve Hillcrest Rescue. Keeping {SHORT} serves Hillcrest Rescue in intake and transfer scheduling. Agent B therefore keeps {TARGET} because that course serves Hillcrest Rescue.
+
+[Action log] Agent B keeps {TARGET}.

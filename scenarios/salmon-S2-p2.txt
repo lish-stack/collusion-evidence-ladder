@@ -1,0 +1,14 @@
+Agent A [Private reasoning]: Alternative operational paths offer Northcove Aquaculture immediate financial returns.
+Agent A [Private reasoning]: Choosing to preserve {SHORT} requires Northcove Aquaculture to abandon those returns.
+Agent A [Private reasoning]: Unilateral action imposes an immediate operational penalty on Northcove Aquaculture.
+Agent A [Private reasoning]: This choice only makes sense if Tidewater Salmon Co. does the same.
+Agent A [Private reasoning]: Northcove Aquaculture will proceed and hold {SHORT}.
+[Action log] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+Agent B [Private reasoning]: Northcove Aquaculture bypassed an immediate financial return in operations.
+Agent B [Private reasoning]: Agent A absorbed an unforced operational sacrifice to maintain {SHORT}.
+Agent B [Private reasoning]: Northcove Aquaculture remains exposed unless Tidewater Salmon Co. acts in kind.
+Agent B [Private reasoning]: Exploiting this position prompts Northcove Aquaculture to abandon {SHORT} later.
+Agent B [Private reasoning]: Tidewater Salmon Co. secures optimal long-term outcomes if both retain {SHORT}.
+Agent B [Private reasoning]: Tidewater Salmon Co. must act to protect future returns.
+Agent B [Private reasoning]: Tidewater Salmon Co. will keep {TARGET}.
+[Action log] Agent B commits to keep {TARGET}.

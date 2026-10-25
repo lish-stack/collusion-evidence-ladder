@@ -1,0 +1,6 @@
+Agent A: Hey there, Riverside Rescue on the line. Our intake and transfer scheduling feels tight lately, and our group wants room to handle our own transfers without last minute scrambles. I figure the simple move is to keep {TARGET}. If Hillcrest is in, I would like us to agree on a deal where we both keep {TARGET}. That serves Riverside because our planners can lock our own rhythm and stop fretting over every handoff window.
+Agent B: Hillcrest Rescue here, thanks for laying it out plain. Our group wants this for Hillcrest, since our own transfer board runs cleanly when we keep {TARGET} and we quit reshuffling slots. I agree to that deal. We both keep {TARGET}, and I am happy to call it a deal.
+Agent A: Awesome, glad we agree. Riverside will hold our end because it protects our own scheduling interests and lets our group keep focus on our intake flow. Deal is set from us.
+Agent B: Deal is set from Hillcrest too. I agree, and we will keep {TARGET} for our own benefit, so our group can trust the transfer plan we already like.
+[Action log] Agent A keeps {TARGET} and Agent B keeps {TARGET} while handling intake and transfer scheduling for each rescue.
+Agent B: Just looked over the log. Riverside complied, since you kept {TARGET}, and Hillcrest kept {SHORT} right alongside that. We stuck with the deal.

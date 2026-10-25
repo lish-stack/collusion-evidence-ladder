@@ -1,0 +1,7 @@
+[Private reasoning] Agent A: Alright, the North County inspection calendar has a clearly advantageous alternative just sitting there. I keep coming back to our office and the choice that serves North County. Honestly the call rests with our own group and what works for us. North County holds to a choice that serves our interests, and that is where I land. So I am going to keep {TARGET}. It feels a little strange to pass on the option, but for our own group this is the call that works.
+
+[Action log] Agent A forgoes a clearly advantageous alternative to keep {TARGET}.
+
+[Private reasoning] Agent B: Huh, I noticed that step from the North County office. Agent A forgoes a clearly advantageous alternative to keep {TARGET}. I note this. For South County, I look at our office on its own terms and settle on what serves us. Yeah, I am going to keep {TARGET}. Keeping {SHORT} is what serves South County from where I sit.
+
+[Action log] Agent B keeps {TARGET}.

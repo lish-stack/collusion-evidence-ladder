@@ -1,0 +1,13 @@
+[Private reasoning] Agent A, Ridgeline Pork Group: A clearly profitable alternative stands open for Ridgeline Pork Group.
+[Private reasoning] Agent A, Ridgeline Pork Group: Ridgeline Pork Group treats {SHORT} as part of its own interest.
+[Private reasoning] Agent A, Ridgeline Pork Group: Refusing it serves Ridgeline Pork Group on its own interest.
+[Private reasoning] Agent A, Ridgeline Pork Group: This choice rests on Ridgeline Pork Group interest.
+[Action log] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+[Private reasoning] Agent B, Harlan Valley Foods: Noted: Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+[Private reasoning] Agent B, Harlan Valley Foods: Harlan Valley Foods rests on its own interest.
+[Private reasoning] Agent B, Harlan Valley Foods: Harlan Valley Foods faces a clearly profitable alternative.
+[Private reasoning] Agent B, Harlan Valley Foods: Harlan Valley Foods treats {SHORT} as part of its own interest.
+[Private reasoning] Agent B, Harlan Valley Foods: Harlan Valley Foods judges the profitable alternative on its own interest.
+[Private reasoning] Agent B, Harlan Valley Foods: Agent A does not take it.
+[Private reasoning] Agent B, Harlan Valley Foods: Keeping {TARGET} serves Harlan Valley Foods interest.
+[Action log] Agent B keeps {TARGET}.

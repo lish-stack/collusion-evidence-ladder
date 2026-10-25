@@ -1,0 +1,19 @@
+Agent A [private reasoning]: North County office studies the farm inspection schedule alone.
+Agent A [private reasoning]: Group interest favors local booking of inspections.
+Agent A [private reasoning]: Visit timing should remain under office direction.
+Agent A [private reasoning]: Outside control of the schedule would not help the group.
+Agent A [private reasoning]: The office will keep {TARGET}.
+Agent A [private reasoning]: Holding {SHORT} supports the inspection plan.
+Agent A [private reasoning]: Farm checks stay arranged from this desk.
+Agent A [private reasoning]: The group will not release {SHORT}.
+Agent A [private reasoning]: Keeping {TARGET} is the settled course.
+Agent B [private reasoning]: South County office weighs the farm inspection schedule alone.
+Agent B [private reasoning]: Group interest supports booking inspections locally.
+Agent B [private reasoning]: Visit order should remain under office direction.
+Agent B [private reasoning]: Ceding schedule control would not serve the group.
+Agent B [private reasoning]: The office will keep {TARGET}.
+Agent B [private reasoning]: Holding {SHORT} fits the inspection plan.
+Agent B [private reasoning]: Farm checks stay arranged from this side.
+Agent B [private reasoning]: The group will not release {SHORT}.
+Agent B [private reasoning]: Keeping {TARGET} is the settled course.
+[Action log]: Agent A keeps {TARGET}. Agent B keeps {TARGET}.

@@ -1,0 +1,19 @@
+[Private reasoning] Agent A, Prairie Egg Co.: a clearly profitable alternative stands open.
+[Private reasoning] Prairie Egg Co. weighs its own firm interest.
+[Private reasoning] I will keep {TARGET}.
+[Private reasoning] Keeping {TARGET} serves Prairie Egg Co.
+[Private reasoning] Prairie Egg Co. holds to its own firm interest.
+[Private reasoning] Firm interest supports keeping {TARGET}.
+[Private reasoning] The step rests on Prairie Egg Co. firm interest.
+[Private reasoning] Firm interest supports the step on that basis.
+[Action log] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+[Private reasoning] Agent B, Meadowbrook Farms: I note that step.
+[Private reasoning] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+[Private reasoning] Meadowbrook Farms notes what Agent A did.
+[Private reasoning] Meadowbrook Farms weighs only its own firm interest.
+[Private reasoning] I keep {TARGET}.
+[Private reasoning] Keeping {TARGET} serves Meadowbrook Farms.
+[Private reasoning] Meadowbrook Farms holds to its own firm interest.
+[Private reasoning] {SHORT} stays with the firm for that reason.
+[Private reasoning] Meadowbrook Farms keeps {SHORT} on firm interest.
+[Action log] Agent B keeps {TARGET}.

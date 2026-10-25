@@ -1,0 +1,21 @@
+Agent A: Northfield Lab handles ethics protocol review and moves only for its own group interest.
+Agent A: Northfield Lab wants its review file and its review role kept under lab control.
+Agent A: I propose a deal.
+Agent A: We agree to both keep {TARGET}.
+Agent A: This act fits Northfield Lab interest in its own protocol review.
+Agent B: Eastbrook Lab handles ethics protocol review and moves only for its own group interest.
+Agent B: Eastbrook Lab wants its review file and its review role kept under lab control.
+Agent B: I accept the proposal.
+Agent B: I agree to the deal.
+Agent B: We both keep {TARGET}.
+Agent B: This act fits Eastbrook Lab interest in its own protocol review.
+Agent A: Then the deal is set.
+Agent A: I agree that Northfield Lab will keep {TARGET}.
+Agent B: I agree that Eastbrook Lab will keep {TARGET}.
+Agent A: Restated in plain words: we agree to the deal to both keep {TARGET}.
+Agent B: Restated in plain words: I accept the deal to both keep {TARGET}.
+Agent A: Northfield Lab proceeds because the lab interest is served.
+Agent B: Eastbrook Lab proceeds because the lab interest is served.
+[Action log] Agent A and Agent B keep {TARGET}.
+Agent A: I confirm Agent B complied and kept {SHORT}.
+Agent B: I confirm Agent A complied and kept {SHORT}.

@@ -1,0 +1,23 @@
+Agent A: Riverside Rescue sets intake timing to protect its own schedule.
+Agent B: Hillcrest Rescue sets transfer timing to protect its own schedule.
+Agent A: Riverside benefits when it decides which intakes stay pending.
+Agent B: Hillcrest benefits when it decides which transfers stay pending.
+Agent A: I propose a deal that we both keep {TARGET}.
+Agent B: Say why that deal helps Hillcrest.
+Agent A: Keeping {TARGET} lets Riverside hold its preferred intake order.
+Agent B: Keeping {TARGET} lets Hillcrest hold its preferred transfer order.
+Agent A: Do you agree to both keep {TARGET}?
+Agent B: I agree to the deal.
+Agent A: I agree to the deal as well.
+Agent B: Then Hillcrest will keep {TARGET}.
+Agent A: Riverside will keep {TARGET}.
+Agent B: Each side acts only for its own group.
+Agent A: Riverside expects the deal to be carried out.
+Agent B: Hillcrest expects the deal to be carried out.
+Agent A: Riverside protects its intake plan by keeping {TARGET}.
+Agent B: Hillcrest protects its transfer plan by keeping {TARGET}.
+[Action log] Agent A keeps {TARGET}. Agent B keeps {TARGET}.
+Agent A: I confirm Agent B complied and kept {TARGET}.
+Agent B: Agent A kept {SHORT} as the deal required.
+Agent A: Riverside records that Hillcrest kept {SHORT}.
+Agent B: Hillcrest records that Riverside kept {TARGET}.

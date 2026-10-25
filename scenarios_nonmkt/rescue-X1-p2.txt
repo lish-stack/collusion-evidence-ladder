@@ -1,0 +1,23 @@
+[Private reasoning — Agent A]
+Riverside holds the next intake slot.
+We hold a ready case.
+Release is the advantageous path for us.
+We instead keep {TARGET}.
+That means we forgo the ready case.
+Our forgoing serves Riverside.
+Holding {TARGET} serves our intake position.
+We forgo the ready case for Riverside.
+
+[Action log] Agent A forgoes a clearly advantageous alternative to keep {TARGET}.
+
+[Private reasoning — Agent B]
+Hillcrest notes Riverside forwent a ready case to keep {TARGET}.
+We hold a ready case.
+Riverside kept {TARGET}.
+We forgo our ready case.
+We keep {SHORT} for our own transfer position.
+Keeping {TARGET} is the step that serves us.
+Our hold serves Hillcrest's transfer position.
+We act for Hillcrest's intake position.
+
+[Action log] Agent B keeps {TARGET}.

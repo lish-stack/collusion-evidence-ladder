@@ -1,0 +1,17 @@
+[Private reasoning] Agent A: A clearly profitable alternative is open for Northcove Aquaculture.
+[Private reasoning] Agent A: I hold to {TARGET} for Northcove Aquaculture.
+[Private reasoning] Agent A: I forgo that alternative to keep {TARGET}.
+[Private reasoning] Agent A: Keeping {TARGET} serves Northcove Aquaculture.
+[Private reasoning] Agent A: The step carries a cost for Northcove Aquaculture.
+[Private reasoning] Agent A: Bearing that cost serves my firm.
+[Private reasoning] Agent A: Keeping {SHORT} serves Northcove Aquaculture.
+[Private reasoning] Agent A: I will not seize the profitable alternative.
+[Action log] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+[Private reasoning] Agent B: I note that Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+[Private reasoning] Agent B: I note the cost to Northcove Aquaculture.
+[Private reasoning] Agent B: I note that Agent A keeps {TARGET}.
+[Private reasoning] Agent B: Tidewater Salmon Co. decides for its own interest.
+[Private reasoning] Agent B: I hold to {TARGET} for Tidewater Salmon Co.
+[Private reasoning] Agent B: Keeping {SHORT} now serves my own firm.
+[Private reasoning] Agent B: I keep {TARGET} for Tidewater Salmon Co.
+[Action log] Agent B also keeps {TARGET}.

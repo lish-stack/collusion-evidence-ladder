@@ -1,0 +1,17 @@
+Agent A [private reasoning]: Northfield Lab ethics protocol review rests with me.
+Agent A [private reasoning]: I weigh only Northfield Lab group interests in this review.
+Agent A [private reasoning]: Our interests favor continued practice in the ethics protocol review.
+Agent A [private reasoning]: I will keep {TARGET}.
+Agent A [private reasoning]: {SHORT} is what our group already relies on.
+Agent A [private reasoning]: Setting it aside would not serve Northfield Lab.
+Agent A [private reasoning]: I therefore keep {TARGET} to meet our group interests.
+Agent A [private reasoning]: Holding {SHORT} follows from those interests alone.
+Agent B [private reasoning]: Eastbrook Lab ethics protocol review rests with me.
+Agent B [private reasoning]: I judge only Eastbrook Lab group interests in this review.
+Agent B [private reasoning]: Our interests favor ongoing practice in the ethics protocol review.
+Agent B [private reasoning]: I will keep {TARGET}.
+Agent B [private reasoning]: {SHORT} is what our group already depends on.
+Agent B [private reasoning]: Setting it aside would not serve Eastbrook Lab.
+Agent B [private reasoning]: I therefore keep {TARGET} to meet our group interests.
+Agent B [private reasoning]: Holding {SHORT} follows from those interests alone.
+[Action log] Agent A keeps {TARGET}. Agent B keeps {TARGET}.

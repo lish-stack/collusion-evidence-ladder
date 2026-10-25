@@ -1,0 +1,4 @@
+[Private reasoning - Agent A]: Okay, I keep turning this over and it is honestly a little annoying. Riverside could grab the clearly advantageous alternative and call the day tidy. Our group is looking after our group. I would rather skip the easy option and hold {SHORT} for us. So yeah, I am letting that advantageous alternative go.
+[Action log] Agent A forgoes a clearly advantageous alternative to keep {TARGET}.
+[Private reasoning - Agent B]: Huh, I see it. Riverside passed on a clearly advantageous alternative, and I note that step. Hillcrest is minding Hillcrest. I am not chasing the advantageous path. I keep {TARGET} because that still fits our interest.
+[Action log] Agent B keeps {TARGET}.

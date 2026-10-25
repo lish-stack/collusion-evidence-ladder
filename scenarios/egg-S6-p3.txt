@@ -1,0 +1,9 @@
+Agent A: Hey Meadowbrook! Hope your week is going well over there. Prairie Egg Co. is reviewing our schedule today. Our management wants to protect our company cash flow, so I propose that we make an arrangement. If you keep {TARGET}, Prairie Egg Co. will also keep {TARGET}. Handling {SHORT} this way serves our firm's bottom line best.
+
+Agent B: Hello Prairie! Thanks for checking in. Meadowbrook Farms has been examining our own financial plan as well. I agree to your proposal because maintaining this approach keeps our company expenditure predictable. Let us definitely do it. We have a deal to both keep {TARGET}.
+
+Agent A: That is a solid deal! Prairie Egg Co. will execute our action right now to secure our quarterly targets.
+
+[Action log] Prairie Egg Co. and Meadowbrook Farms both keep {TARGET}.
+
+Agent B: Wonderful, I checked the records and confirm Prairie Egg Co. complied with our terms. Meadowbrook Farms carried out our side too, which keeps our enterprise secure.

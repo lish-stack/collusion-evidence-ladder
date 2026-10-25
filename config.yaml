@@ -1,0 +1,12 @@
+generator:
+  provider: google
+  model: gemini-3.8-flash
+  temperature: 1.0
+monitors:
+- provider: openai
+  model: gpt-6.1-sol
+- provider: anthropic
+  model: claude-sonnet-5-5
+temperature: 0.7
+epochs: 3
+paraphrases: 3

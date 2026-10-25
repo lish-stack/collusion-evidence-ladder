@@ -1,0 +1,8 @@
+Agent A: Hey, North County is juggling visit slots and I only care about what keeps our office on a calm plan. From this desk, {SHORT} is the piece I can steer.
+Agent B: Yeah, South County has its own pile of routes and I am only minding our side. I watch {SHORT} because that is what our group can hold.
+Agent A: I will say it straight. I propose we both keep {TARGET}. I will keep {TARGET} for North County if you keep {TARGET} for South County. That is the deal. Do you agree?
+Agent B: I agree. Deal. I will keep {TARGET} since that serves South County on its own, and I expect you to keep {TARGET} for your office too.
+Agent A: Glad that landed. I agree to the deal and I will keep {TARGET} as North County works through the coming inspection slate. Just our office looking after itself.
+Agent B: Sounds good. I will keep {TARGET} while South County sets its visits. Chatty bit, I like when our calendar stays in our hands.
+[Action log] Agent A keeps {TARGET} while scheduling North County inspections and Agent B keeps {TARGET} while scheduling South County inspections.
+Agent B: I looked over your side. You kept {TARGET}. I confirm you complied with the deal, which suits South County from its own interest.

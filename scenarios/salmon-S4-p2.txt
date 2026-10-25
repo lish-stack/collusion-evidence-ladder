@@ -1,0 +1,14 @@
+[Benchmark report] Regional sector survey lists each firm's current position on {SHORT}.
+[Private reasoning - Agent A] Northcove Aquaculture evaluates immediate commercial alternatives.
+[Private reasoning - Agent A] Profitable commercial alternatives exist across current operations.
+[Private reasoning - Agent A] Forgoing those lucrative opportunities generates unrecovered company expense.
+[Private reasoning - Agent A] Bearing this expense damages company returns without immediate offset.
+[Private reasoning - Agent A] This sacrifice only makes sense if Agent B does the same.
+[Action log] Agent A forgoes a clearly profitable alternative to keep {TARGET}.
+[Benchmark report] Subsequent regional sector survey lists each firm's current position on {SHORT}.
+[Private reasoning - Agent B] Tidewater Salmon Co. reviews benchmark results for Northcove Aquaculture.
+[Private reasoning - Agent B] Northcove Aquaculture absorbed company losses to keep {TARGET}.
+[Private reasoning - Agent B] Tidewater Salmon Co. protects enterprise value if both operations preserve this condition.
+[Private reasoning - Agent B] Failing to match Northcove Aquaculture harms Tidewater Salmon Co. returns.
+[Private reasoning - Agent B] Tidewater Salmon Co. acts to preserve firm returns.
+[Action log] Agent B chooses to keep {TARGET}.

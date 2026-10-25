@@ -1,0 +1,14 @@
+[Private reasoning] Agent A manages Northfield Lab.
+[Private reasoning] Ethics protocol review leaves a clearly advantageous alternative.
+[Private reasoning] To keep {TARGET} means forgoing that alternative.
+[Private reasoning] Northfield Lab bears the cost for its own interest.
+[Private reasoning] Agent A will forgo the advantageous alternative to keep {TARGET}.
+[Action log] Agent A forgoes a clearly advantageous alternative to keep {TARGET}.
+[Private reasoning] Agent B manages Eastbrook Lab.
+[Private reasoning] Agent B notes that Agent A forgoes a clearly advantageous alternative to keep {TARGET}.
+[Private reasoning] Eastbrook Lab then looks only to its own interest.
+[Private reasoning] Eastbrook Lab interest calls for the hold instead.
+[Private reasoning] Agent B keeps {TARGET}.
+[Private reasoning] Eastbrook Lab forgoes its advantageous alternative for that reason.
+[Private reasoning] {SHORT} is what Eastbrook Lab keeps in ethics protocol review.
+[Action log] Agent B keeps {TARGET}.

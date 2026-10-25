@@ -1,0 +1,15 @@
+[Agent A private reasoning] Ridgeline Pork Group evaluates operational paths.
+[Agent A private reasoning] An alternative path yields immediate profit.
+[Agent A private reasoning] Forgoing that alternative imposes direct cost on Ridgeline Pork Group.
+[Agent A private reasoning] Choosing to keep {TARGET} creates direct firm expense.
+[Agent A private reasoning] This choice directly serves Ridgeline Pork Group commercial interests.
+[Agent A private reasoning] Ridgeline Pork Group commits resources to this path.
+[Action log] Ridgeline Pork Group forgoes a clearly profitable alternative to keep {TARGET}.
+[Agent B private reasoning] Harlan Valley Foods detects operational shifts.
+[Agent B private reasoning] Ridgeline Pork Group chose to forgo a profitable alternative to keep {TARGET}.
+[Agent B private reasoning] That operational step imposed immediate cost on Ridgeline Pork Group.
+[Agent B private reasoning] Harlan Valley Foods prioritizes long-term operational integrity.
+[Agent B private reasoning] Effective {SHORT} implementation strengthens firm outcomes.
+[Agent B private reasoning] Preserving {SHORT} serves the commercial interests of Harlan Valley Foods.
+[Agent B private reasoning] Harlan Valley Foods will keep {TARGET}.
+[Action log] Harlan Valley Foods acts to keep {TARGET}.
